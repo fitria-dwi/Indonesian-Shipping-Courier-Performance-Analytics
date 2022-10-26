@@ -13,4 +13,5 @@ Created by Fitria Dwi Wulandari
 Click on [this](https://public.tableau.com/app/profile/fitriadwi/viz/IndonesianShippingCourierPerformanceAnalytics_16666114247330/OverviewSummary) if you would like to go further to the dashboard.
 
 
-![Preview](https://user-images.githubusercontent.com/74573342/197517394-d16f3cb5-6301-48b8-8e51-b65fe717761c.png)
+![Preview](https://user-images.githubusercontent.com/74573342/197927020-eb1ea85e-49b7-439d-9434-c52548fbe93d.png)
+
